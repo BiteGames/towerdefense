@@ -1,9 +1,9 @@
 ##### GAMEPLAY #####
 
-Vu du dessus, il faut cliquer sur l'écran pour définir l'angle de tir.
-La puissance dépend de la durée de l'appui
+Vu de cotÃ©, il faut cliquer sur l'Ã©cran pour dÃ©finir l'angle de tir.
+La puissance dÃ©pend de la durÃ©e de l'appui
 
-Des monstres arrivent du haut de l'écran et suivent des chemins pour arriver en bas (coubes, etc...)
+Des ennemis arrivent de la droite et suivent des chemins pour 
 
 Le but est de tuer les monstres avant qu'ils arrivent en bas
 
